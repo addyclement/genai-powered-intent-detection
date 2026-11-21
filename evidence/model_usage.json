@@ -1,0 +1,11 @@
+[
+    {
+        "START_TIME": "2026-11-18T00:00:00-08:00",
+        "END_TIME": "2026-11-18T01:00:00-08:00",
+        "FUNCTION_NAME": "AI_COMPLETE",
+        "MODEL_NAME": "claude-haiku-4-5",
+        "QUERY_ID": "01c87d48-040d-9629-0004-25820040bd3a",
+        "METRICS": "[\n  {\n    \"key\": {\n      \"metric\": \"input\",\n      \"unit\": \"tokens\"\n    },\n    \"value\": 20148\n  },\n  {\n    \"key\": {\n      \"metric\": \"output\",\n      \"unit\": \"tokens\"\n    },\n    \"value\": 3405\n  }\n]",
+        "CREDITS": "0.022303800"
+    }
+]

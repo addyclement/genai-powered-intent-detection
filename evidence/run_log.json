@@ -1,0 +1,32 @@
+[
+  {
+    "RUN_ID": "87472e16-f3e4-4f86-aca4-82c06dcd874d",
+    "STARTED_AT": "2026-11-18T08:08:06.600000",
+    "FINISHED_AT": "2026-11-18T08:08:17.090000",
+    "MODEL_USED": "claude-haiku-4-5",
+    "PROMPT_VERSION": "p1.0",
+    "TAXONOMY_VERSION": "tx-2026.11",
+    "ROWS_SELECTED": 10,
+    "ROWS_CLASSIFIED": 10,
+    "ROWS_FAILED": 0,
+    "ROWS_FOR_REVIEW": 4,
+    "STATUS": "OK",
+    "ERROR_MESSAGE": null,
+    "INFERENCE_QUERY_ID": "01c87d48-040d-9629-0004-25820040bd3a"
+  },
+  {
+    "RUN_ID": "56cd238d-5301-47b4-a7da-327f39471dd1",
+    "STARTED_AT": "2026-11-18T08:08:51.503000",
+    "FINISHED_AT": "2026-11-18T08:09:00.514000",
+    "MODEL_USED": "claude-haiku-4-5",
+    "PROMPT_VERSION": "p1.0",
+    "TAXONOMY_VERSION": "tx-2026.11",
+    "ROWS_SELECTED": 0,
+    "ROWS_CLASSIFIED": 0,
+    "ROWS_FAILED": 0,
+    "ROWS_FOR_REVIEW": 0,
+    "STATUS": "NOTHING_TO_DO",
+    "ERROR_MESSAGE": null,
+    "INFERENCE_QUERY_ID": null
+  }
+]
